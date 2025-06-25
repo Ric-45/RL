@@ -1,4 +1,5 @@
-# As part of my M.Sc. in Cloud Computing, I worked on a thesis project titled "Dynamic Resource Allocation in Multi-Cloud Environments Using Reinforcement Learning". The primary goal was to develop an adaptive algorithm capable of optimizing resource allocation and load balancing across different cloud providers while minimizing costs and latency.
+# Dynamic Resource Allocation in Multi-Cloud Environments Using Reinforcement Learning
+As part of my M.Sc. in Cloud Computing, I worked on a thesis project titled "Dynamic Resource Allocation in Multi-Cloud Environments Using Reinforcement Learning". The primary goal was to develop an adaptive algorithm capable of optimizing resource allocation and load balancing across different cloud providers while minimizing costs and latency.
 
 Using performance metrics from multiple virtual machines (e.g., CPU usage, memory, network traffic), I built a Reinforcement Learning-based model leveraging techniques like Q-learning and Deep Q Networks (DQN).
 
