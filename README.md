@@ -1,8 +1,85 @@
+
 # Dynamic Resource Allocation in Multi-Cloud Environments Using Reinforcement Learning
-As part of my M.Sc. in Cloud Computing, I worked on a thesis project titled "Dynamic Resource Allocation in Multi-Cloud Environments Using Reinforcement Learning". The primary goal was to develop an adaptive algorithm capable of optimizing resource allocation and load balancing across different cloud providers while minimizing costs and latency.
 
-Using performance metrics from multiple virtual machines (e.g., CPU usage, memory, network traffic), I built a Reinforcement Learning-based model leveraging techniques like Q-learning and Deep Q Networks (DQN).
+## 📌 Project Overview
 
-The model continuously learned from environment feedback to make optimal resource allocation decisions in real-time. In the final stage, I deployed the solution using AWS services for performance monitoring and validation.
+This repository contains the implementation of my M.Sc. Cloud Computing thesis project:  
+**"Dynamic Resource Allocation in Multi-Cloud Environments Using Reinforcement Learning"**.
 
-This work enhanced my skills in cloud infrastructure, machine learning (especially RL), and multi-cloud resource management.
+The project focuses on solving real-time resource allocation and load balancing challenges across multiple cloud providers (e.g., AWS, Azure, GCP) by using Reinforcement Learning (RL) techniques.
+
+---
+
+## 🎯 Goals
+
+- Develop an adaptive algorithm for optimal resource allocation across multi-cloud environments.
+- Improve performance and reduce operational costs.
+- Minimize latency and network overhead while respecting data sovereignty regulations.
+
+---
+
+## 🧰 Dataset Information
+
+The dataset was generated/simulated from multi-cloud environments and includes:
+
+- CPU Usage  
+- Memory Usage  
+- Network Traffic  
+- Power Consumption  
+
+Metrics were collected from **3 different Virtual Machines (VMs)** hosted across multiple cloud platforms.
+
+---
+
+## 🛠️ Methodology
+
+1. **Data Preprocessing and Feature Engineering**
+2. **Reinforcement Learning Environment Setup**
+   - State, Action, Reward definitions
+3. **Model Development**
+   - Q-learning / Deep Q-Network (DQN)
+4. **Training and Testing**
+5. **Deployment on AWS**
+   - For monitoring, visualization, and performance evaluation.
+
+---
+
+## 🚀 Technologies Used
+
+- Python
+- TensorFlow / PyTorch
+- AWS (EC2, CloudWatch)
+- Scikit-learn
+- OpenAI Gym (for custom RL environment simulation)
+
+---
+
+## 🏆 Results
+
+- Improved resource utilization across VMs.
+- Reduced overall latency and cost in simulated multi-cloud scenarios.
+- Demonstrated adaptive decision-making by the RL model in dynamic workloads.
+
+---
+
+## 📄 Thesis Submitted for:
+
+**Master of Science (M.Sc.) in Cloud Computing**  
+[Your University Name]
+
+---
+
+## 📬 Contact
+
+For more details, feel free to reach out:
+
+- Name: [Your Full Name]  
+- LinkedIn: [Your LinkedIn URL]  
+- Email: [Your Email]
+
+---
+
+## 📢 Disclaimer
+
+This project was completed as part of an academic requirement and may contain simulated data for research purposes.
+
