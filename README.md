@@ -62,22 +62,6 @@ Metrics were collected from **3 different Virtual Machines (VMs)** hosted across
 
 ---
 
-## 📄 Thesis Submitted for:
-
-**Master of Science (M.Sc.) in Cloud Computing**  
-[Your University Name]
-
----
-
-## 📬 Contact
-
-For more details, feel free to reach out:
-
-- Name: [Your Full Name]  
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [Your Email]
-
----
 
 ## 📢 Disclaimer
 
